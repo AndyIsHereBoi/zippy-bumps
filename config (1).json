@@ -1,0 +1,10 @@
+{
+    "token": "OTAyMTk5NjYwMzY0NTYyNDky.YXa86Q.gbq6EKfijcHkcNby3fb3DKEtlmw",
+    "owners": [683002779396079667, 757632068917133433, 799584750087831553],
+    "botInvite": "https://discord.com/api/oauth2/authorize?client_id=902199660364562492&permissions=902199660364562492&scope=bot%20applications.commands",
+    "prefix": "zb!",
+    "ad_count_send": 5,
+    "footerText": "Developed by AndyIsHereBoi#8909 (683002779396079667)",
+    "supportServer": "https://discord.gg/SdKCmEzEyh",
+    "logchannel": 935192119092580382
+}
